@@ -257,5 +257,8 @@ latte
 sudo apt install -y qt5-style-kvantum qt5-style-kvantum-themes
 
 
+# Go packages
+go install github.com/rs/curlie@latest
+
 sudo reboot -f
 
